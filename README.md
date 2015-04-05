@@ -24,6 +24,8 @@ We are tring to build a website about "Magic: The Gathering"  based on the DeckB
  
 ## Responsibilities
  - 
+ 
+
 ## Milestones
  - User can filter card sets, view different cards and search cards
  - User can build their own decks
