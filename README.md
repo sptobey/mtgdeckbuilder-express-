@@ -10,11 +10,22 @@ We are tring to build a website about "Magic: The Gathering"  based on the DeckB
 
 ## Technology
  - Deckbrew API
- - 
+ - Jquery
+ - Express
+ - ReactJS
+ - MongoDB
+ - Backbone.js/ Sugar.js
+ - Modernizr
+ - RxJS
+ - BootStrap/ Foundation by ZURB / Semantic UI / Pure by Yahoo / Ulkit by YOOtheme
 
 ## Learning
- - 
+ - Fancy UI design including animation, search tab, database managemment, user login system, put videos on website
  
 ## Responsibilities
  - 
-
+## Milestones
+ - User can filter card sets, view different cards and search cards
+ - User can build their own decks
+ - Login System: save and load decks
+ - Polish UI and add Instructional Information
