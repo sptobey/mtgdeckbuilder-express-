@@ -23,7 +23,10 @@ We are tring to build a website about "Magic: The Gathering"  based on the DeckB
  - Fancy UI design including animation, search tab, database managemment, user login system, put videos on website
  
 ## Responsibilities
- - 
+ - SUBJECT TO CHANGE WITH DISCUSSION
+ - Haoran will work on deckbuilding and display UI
+ - Sam will work on some of the deckbuilding backend
+ - Chris will work on the saving and loading of decks and the instructions
  
 
 ## Milestones
