@@ -34,3 +34,23 @@ We are tring to build a website about "Magic: The Gathering"  based on the DeckB
  - User can build their own decks
  - Login System: save and load decks
  - Polish UI and add Instructional Information
+
+## Q/A's
+
+Q1: Is this an app or a website?
+A1: This is a website.
+
+Q2: What is the main focus of this website, searching cards or building a deck?
+A2: Our main focus is on the deckbuilding aspect, although you will also be able to search and filter cards.
+
+Q3: How will decks be built?
+A3: While in the deckbuilding section, you search cards and can click the check mark to add a card, or an x mark to remove a card in your deck.
+
+Q4: Where is your data sourced from?
+A4: A public API known as Deckbrew.
+
+Q5: How do you picture the UI?
+A5: There will be two views; one is a search and add function for the deck you are currently building which is also functional as a standalone search, the other is a view of the deck you are currently working on with all associated information.
+
+Q6: How are the decks saved?
+A6: They are saved and loaded locally as a JSON blob.
