@@ -1,0 +1,23 @@
+{
+  "name": "mtgdeckbuilder",
+  "version": "0.0.0",
+  "description": "Deckbuilding website for magic the gathering.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sptobey/mtgdeckbuilder.git"
+  },
+  "author": "Chirstopher Audette, Samuel P. Tobey, Haoran Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sptobey/mtgdeckbuilder/issues"
+  },
+  "homepage": "https://github.com/sptobey/mtgdeckbuilder"
+}
