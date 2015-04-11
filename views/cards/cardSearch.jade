@@ -1,29 +1,23 @@
 extends ../layout.jade
 
 block content
-    label Something
-
     div.row
-        input(type='search' name='cardSearch')
-        a.button Search
+        input(type='search' name='cardSearch' id='searchText')
+        Search
+            input(type='button' value='Search' onclick='cardSearch()')
 
     div.row
         form
             label White
-                input(type='checkbox', name='color', value='white')
-            br
+                input(type='checkbox', name='color', value='white', checked=false)
             label Blue
-                input(type='checkbox', name='color', value='blue')
-            br
+                input(type='checkbox', name='color', value='blue', checked=false)
             label Red
-                input(type='checkbox', name='color', value='red')
-            br
+                input(type='checkbox', name='color', value='red', checked=false)
             label Green
-                input(type='checkbox', name='color', value='green')
-            br
+                input(type='checkbox', name='color', value='green', checked=false)
             label Black
-                input(type='checkbox', name='color', value='black')
-            br
+                input(type='checkbox', name='color', value='black', checked=false)
             label Colorless
-                input(type='checkbox', name='color', value='gray')
+                input(type='checkbox', name='color', value='colorless', checked=false)
             
