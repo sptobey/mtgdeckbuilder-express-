@@ -12,6 +12,8 @@ app.get('/', function(req, res){
     res.render('index.jade')
 })
 
+require('./routes/cardFilter')(app)
+
 
 
 app.set('port', (process.env.PORT || 3000))
