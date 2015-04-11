@@ -2,3 +2,26 @@ extends ../layout.jade
 
 block content
     label Something
+
+    div.row
+        input(type='search' name='cardSearch')
+        a.button Search
+
+    div.row
+        form
+            label White
+                input(type='checkbox', name='color', value='white')
+            br
+            label Blue
+                input(type='checkbox', name='color', value='blue')
+            br
+            label Red
+                input(type='checkbox', name='color', value='red')
+            br
+            label Green
+                input(type='checkbox', name='color', value='green')
+            br
+            label Black
+                input(type='checkbox', name='color', value='black')
+            
+            
