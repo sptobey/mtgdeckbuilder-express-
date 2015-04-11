@@ -20,6 +20,13 @@ module.exports = function(app){
         })
         
         res.render('cards/cardSearch.jade', {
+
         })
+        
     })
+    
+    cardFind: function cardFind(){
+        var white = document.getElementById('white').checked
+        console.log(white)
+    }
 }

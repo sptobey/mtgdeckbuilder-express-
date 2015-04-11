@@ -15,6 +15,7 @@ app.get('/', function(req, res){
 })
 
 require('./routes/cardFilter')(app)
+require('./routes/getCards')
 
 app.set('port', (process.env.PORT || 3000))
 
