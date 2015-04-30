@@ -1,5 +1,8 @@
 # mtgdeckbuilder
 
+## This project has moved!
+ - https://github.com/sptobey/mtgdeckbuilder2
+
 ## Team
  - Christopher Audette
  - Haoran Fang
