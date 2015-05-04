@@ -1,7 +1,7 @@
 # mtgdeckbuilder
 
 ## This project has moved!
- - https://github.com/sptobey/mtgdeckbuilder2
+ - https://github.com/sptobey/mtgdeckbuilder
 
 ## Team
  - Christopher Audette
